@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-01-03 00:00:00-0000
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+:sparkles: A paper is accepted by *IEEE Trans. on Medical Imaging*
