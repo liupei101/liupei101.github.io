@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:sparkles: A paper is accepted by *Medical Image Analysis*
+:sparkles: [A paper](https://www.sciencedirect.com/science/article/pii/S1361841523002803) is accepted by *Medical Image Analysis*.
