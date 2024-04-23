@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:sparkles: [A paper](https://ieeexplore.ieee.org/abstract/document/10385148) is accepted by *IEEE Trans. on Medical Imaging*.
+:sparkles: [One paper](https://ieeexplore.ieee.org/abstract/document/10385148) is accepted by *IEEE Trans. on Medical Imaging*.
