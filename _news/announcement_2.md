@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:fire: Our lab and related works are covered by [UESTC Official News](https://news.uestc.edu.cn/?n=UestcNews.Front.DocumentV2.ArticlePage&Id=91461).
+:fire: Our lab and research works are covered by [UESTC Official News](https://news.uestc.edu.cn/?n=UestcNews.Front.DocumentV2.ArticlePage&Id=91461).
