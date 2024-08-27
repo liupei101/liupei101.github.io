@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-📚 I am excited to share that our two works, Vision-Language-based Survival Analysis and Incremental Learning for Computational Pathology, will come out soon. Please stay tuned. 
+📚 I am excited to share that our two latest works, [Vision-Language-based Survival Analysis](https://liupei101.github.io) and [Vision-Language-based Incremental Learning](https://liupei101.github.io) for Computational Pathology, will come out soon. Please stay tuned if interested. 
