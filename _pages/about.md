@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a final-year Ph.D. Candidate advised by Prof. [Luping Ji](https://faculty.uestc.edu.cn/jiluping/zh_CN/index.htm) at [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/). Prior to starting my Ph.D., I obtained my B.E./M.S. in School of Computer Science and Engineering at [UESTC](https://en.uestc.edu.cn/) in 2017/2020. 
+I am a final-year Ph.D. Candidate advised by Prof. [Luping Ji](https://faculty.uestc.edu.cn/jiluping/zh_CN/index.htm) at [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/). Prior to starting my Ph.D., I obtained my B.E./M.S. in computer science at [UESTC](https://en.uestc.edu.cn/) in 2017/2020. 
 
 ***Research Interest***: My research interests cover many aspects of machine learning and its applications in healthcare.
 - Machine Learning: 1) **Multiple Instance Learning** (MIL), particularly the new issues posed by weak supervision; 2) **Bayesian inference and uncertainty modeling**, with more focus on NN-based approaches; and 3) **Survival analysis**, mainly in unbiased modeling for censored individuals.
