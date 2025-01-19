@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:fire: One co-authored papers, **WSOE** ([Weakly Supervised Outlier Exposure for Object-level Out-of-distribution detection](https://www.sciencedirect.com/science/article/pii/S0957417425001290)), is accepted by *Expert Systems with Applications*. Congratulations to Yutian Lei.
+:sparkles: One co-authored paper, **WSOE** ([Weakly Supervised Outlier Exposure for Object-level Out-of-distribution detection](https://www.sciencedirect.com/science/article/pii/S0957417425001290)), is accepted by *Expert Systems with Applications*. Congratulations to Yutian Lei.
