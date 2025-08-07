@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an in-coming Postdoc research fellow at [Hunan University](https://en.uestc.edu.cn/), expected to start from Sept. 2025. I am fortunate to be advised by Prof. [X. Zeng](https://scholar.google.com/citations?user=B20HBMIAAAAJ). Prior to that, I had a wonderful four-year journey at [UESTC](https://en.uestc.edu.cn/) and got my Ph.D. degree in Jun. 2025 under supervision of Prof. [L. Ji](https://faculty.uestc.edu.cn/jiluping/zh_CN/index.htm). I obtained my B.E./M.S. degree in computer science at UESTC in 2017/2020. 
+I am an in-coming Postdoc research fellow at [HNU](https://www.hnu.edu.cn), expected to start from Sept. 2025. I am fortunate to be advised by Prof. [X. Zeng](https://scholar.google.com/citations?user=B20HBMIAAAAJ). Prior to that, I had a wonderful four-year journey at [UESTC](https://www.uestc.edu.cn) and got my Ph.D. degree in Jun. 2025 under supervision of Prof. [L. Ji](https://faculty.uestc.edu.cn/jiluping/zh_CN/index.htm). I obtained my B.E./M.S. degree in computer science at UESTC in 2017/2020. 
 
 ***Research Interest***: My research interests cover many aspects of machine learning and its applications in healthcare.
 - Machine Learning: 1) **Multiple Instance Learning** (MIL), particularly the new issues posed by weak supervision; 2) **Bayesian inference and uncertainty modeling**, with more focus on NN-based approaches; and 3) **Survival analysis**, mainly in unbiased modeling for censored individuals.
