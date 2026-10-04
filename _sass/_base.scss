@@ -159,6 +159,33 @@ blockquote {
   color: var(--global-theme-color);
 }
 
+// Homepage scroll windows
+
+.news-scrollable,
+.selected-papers-scrollable {
+  height: 20rem;
+  overflow-y: auto;
+  overscroll-behavior-y: contain;
+  scrollbar-gutter: stable;
+  scrollbar-width: thin;
+  scrollbar-color: var(--global-text-color-light) transparent;
+  margin-bottom: 1rem;
+
+  &:focus-visible {
+    outline: 2px solid var(--global-theme-color);
+    outline-offset: 2px;
+  }
+}
+
+.news-scrollable table {
+  margin-bottom: 0;
+}
+
+.selected-papers-scrollable {
+  // Keep Bootstrap's negative row margins inside the scroll window.
+  padding: 0 15px;
+}
+
 // Profile
 
 .profile {
