@@ -22,12 +22,12 @@ I am a Postdoc research fellow at the school of computer science, [HNU](https://
 - **Machine learning**: 
   - Multiple instance learning (MIL), particularly the new issues posed by weak supervision (MIREL'24).
   - Image generation, such as unpaired image-to-image/text-to-image translation (MUT'26).
-  - Bayesian inference and uncertainty estimation, with more attention on NN-based approaches (MIREL'24, MVOL'25).
+  - Bayesian inference and uncertainty estimation, particularly NN-based approaches (MIREL'24, MVOL'25).
   - Survival analysis, discrete or continuous survival modeling approaches (EXSA'21).
 - **Computational Pathology**: Utilizing efficient deep learning methods and explainable tools to unlock the potiential of pathology images for 
   - precise and personalized cancer diagnosis, prognosis, and treatment (AdvMIL'23, PseMix'24, QPMIL-VL'25, VLSA'25, CROPKT'25, STEPH'26, MIST'26) and
-  - cancer multi-omics cancer research, such as virtual spatial omics from histology (CellHIST'26, LatentCell'26) and multi-omics foundational models (on the way).
-- **Virtual Cell**: Particularly interested in single-cell foundation models (CellNet'26) and image-driven cell world models. Aim to build the Universal Virtual Cell-Signaling Model, a foundation model capable of 
+  - cancer multi-omics research, such as virtual spatial omics from histology (CellHIST'26, LatentCell'26) and multi-omics foundational models (on the way).
+- **Virtual Cell**: Focus on single-cell foundation models (CellNet'26) and image-driven cell world models. Aim to build the Universal Virtual Cell-Signaling Model, a foundation model capable of 
   - predicting how any cell in any state changes in response to external signals and 
   - guiding the interventions to change cell fates.
 
